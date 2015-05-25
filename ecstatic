@@ -1,0 +1,54 @@
+#!/usr/bin/env ruby
+
+require "optparse"
+require 'fileutils'
+
+module Ecstatic
+  class Conductor
+    # Public: Conductor helps manage Jekyll
+    #   using easy commands to help the drafting
+    #   and editing process. Combined with vim,
+    #   it makes for a decent editing experience.
+    def initialize(args)
+      cmd = args[0]
+      if Ecstatic::Conductor.method_defined?(cmd)
+        self.send(cmd, args[1..-1])
+      else
+        abort "Command does not exist #{cmd}"
+      end
+    end
+
+    # Public: Publishes articles from the "_drafts"
+    #   folder. If arguments are specified, only publishes
+    #   posts with specified name. If none is given, publishes
+    #   all posts in the _drafts folder.
+    def publish(args)
+      if args.length == 0
+        Dir['_drafts'].each do |filename|
+          FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
+        end
+      else
+        args.each do |filename|
+          FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
+        end
+      end
+    end
+
+    # Public: Keeps the most recent K articles in "_posts",
+    #   and moves the rest to the "_archive" folder
+    def keep_most_recent
+      K = 10
+      FileUtils.mkdir_p "_archive"
+      posts = Dir['_posts'].sort { |a, b| b <=> a }
+      posts[10..-1].each do |filename|
+        FileUtils.mv "_posts/#{filename}", "_archive/#{filename}", :force => true
+      end
+    end
+  end
+end
+
+begin
+  Ecstatic::Conductor.new ARGV
+rescue Errno::ENOENT => err
+  abort "ecstatic: #{err.message}\nusage: ecstatic [command] [-post]"
+end

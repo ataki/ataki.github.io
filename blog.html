@@ -1,0 +1,30 @@
+---
+layout: default
+title: Jim Zheng/Blog
+---
+
+<div id="home">
+  <h1>Recent Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <!--
+  <h1>Other Interviews, Talks, Etc</h1>
+  <ul class="posts">
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.youtube.com/watch?v=k2vJNNAQZlg">Video: Fox Business News interview</a></li>
+    <li><span>27 Sep 2012</span> &raquo; <a href="http://www.youtube.com/watch?v=Ln-B_fs9QMY&feature=youtu.be">Video (Panel): Orrick - How to Build a Great Startup Culture</a></li>
+  </ul>
+  -->
+
+  <h1>Projects</h1>
+  <ul class="posts">
+    <li><a href="http://github.com/ataki/guacamole/">Guacamole:</a> A Delicious Trust Model for Social Networks</li>
+    <li><a href="http://github.com/ataki/sfpermits/">SFPermits:</a> Visualization tool for exploring SF Permit Projecs</li>
+    <li><a href="http://github.com/ataki/hospitalfinder/">Hospitalfinder:</a> Use ML to predict wait time at hospitals</li>
+    <li><a href="http://github.com/ataki/epigensML/">EpigensML:</a> Use kmer counts to predict tissue-specific enhancers</li>
+    <li><a href="http://github.com/ataki/Songstalker/">Songstalker:</a> Android App that pairs people based on songs</li>
+  </ul>
+</div>

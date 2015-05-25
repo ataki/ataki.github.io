@@ -1,0 +1,9 @@
+@font-face {
+    font-family: ProximaNova;
+    src: url(../fonts/Proxima_Nova_Reg.woff);
+}
+
+@font-face {
+    font-family: Monospace;
+    src: url(../fonts/Century-Schoolbook-Monospace-BT.woff);
+}
