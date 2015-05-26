@@ -31,9 +31,9 @@ module Ecstatic
       else
         args.each do |name|
           Dir.foreach('_drafts') do |filename|
-            puts filename, name, filename.include?(name)
             if filename.include? name
               FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
+              exec "git add . && git commit -m 'Publish #{filename}'"
             end
           end
         end
@@ -74,6 +74,7 @@ begin
 rescue Exception => err
   puts "usage: ecstatic [command] ..."
   puts "possible commands"
+  puts "  start: Create a draft for today's entry"
   puts "  publish: Publishes all drafts"
   puts "  publish [post]: Publishes all drafts matching given name\n"
   abort "#{err.message}\n"

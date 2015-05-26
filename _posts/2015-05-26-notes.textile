@@ -4,33 +4,19 @@ title: notes
 ---
 
 <p class="highlight">
-    <i class="c">This is a dump of thoughts that's accumulated over the few months.</i><br/>
+    <i class="c">This is a dump of thoughts that's accumulated over the last few months.</i><br/>
 </p>
 
-Interviewing sucks. I've seen both sides about a dozen times over the past two months. It really comes down to a personality fit 
-as much as a cultural one. A high bar for raw talent makes for a great story, but not always a great organizational move.
+Interviewing still sucks. I've seen both sides about a dozen times over the past two months. It really comes down to a personality fit as much as a cultural one. A high bar for raw talent makes for a great story, but not always a great organizational move.
 
-Bad things happen when people choose form over substance, but it happens. Choose substance first, then follow it with form.
-This takes time, since form is easier to emulate. So don't worry too much about time. <b>Focus on substance and don't get distracted by form.</b>
+Ever since I (re-)learned gradient descent and optimization, I've fallen back to it as a good framework for mapping your life trajectory. At any given point, are you moving toward a local optimum, or are you keeping your eyes open for the global one? If you're pursuing a global optimum, is your step size too large (i.e. you overshoot your target)? <b>Would you settle for a local optimum?</b>
 
-Ever since I (re-)learned gradient descent and optimization, I've fallen back to it as a good framework for mapping
-your life trajectory. At any given point, are you moving toward a local optimum, or are you keeping your eyes open
-for the global one? If you're pursuing a global optimum, is your step size too large (i.e. you overshoot your target)?<br/>
-<b>Would you settle for a local optimum?</b>
+How do we avoid over-training our mental models in real life? It seems impossibly hard, and deep issues stem from something so simple. Racism, stereotypes, miscommunication and misunderstandings can all be viewed as a problem of overfitting. It helps to have some type of <b>awareness and intelligent peers</b> to make sure you're not over-training for what you see.
 
-How do we avoid over-training our mental models in real life? It seems impossibly hard, and deep issues stem from something so
-simple. Racism, stereotypes, miscommunication and misunderstandings can all be viewed as a problem of overfitting.
-It helps to have some type of <b>awareness and intelligent peers</b> to make sure you're not over-training for what you see.
-
-Deliberate practice is about training with <b>new examples</b> that grow to cover the domain of inputs. As with machine learning,
-sometimes the hardest thing is deciding on the training data; the machinery is always there.
+Practice for me is about training with <b>new examples</b> that grow to cover the domain of inputs. Sometimes the hardest thing is deciding on the training data; the machinery is always there.
 
 Allow people and habits to come back naturally. Read slower and longer. Write short and often. Dance. Explore. Stay curious.
 
-Measure yourself, but not constantly. That's why monthly goals exist. Biweekly serves as a check-in point.
+Measure yourself, but not constantly. Monthly is a good pace. Be humble when making goals.
 
-Give yourself "growth days". These are days during which you make progress on a goal. Reach.
-
-<p class="highlight">
-    <i class="ne">The days are long, but the months are short.</i>
-</p>
+Make room for "growth days". These are days during which you make progress on a goal. Reach.
