@@ -2,6 +2,7 @@
 
 require "optparse"
 require 'fileutils'
+require 'date'
 
 module Ecstatic
   class Conductor
@@ -10,11 +11,11 @@ module Ecstatic
     #   and editing process. Combined with vim,
     #   it makes for a decent editing experience.
     def initialize(args)
-      cmd = args[0]
+      cmd = args[0].to_s
       if Ecstatic::Conductor.method_defined?(cmd)
         self.send(cmd, args[1..-1])
       else
-        abort "Command does not exist #{cmd}"
+        raise "command `#{cmd}` does not exist"
       end
     end
 
@@ -24,12 +25,17 @@ module Ecstatic
     #   all posts in the _drafts folder.
     def publish(args)
       if args.length == 0
-        Dir['_drafts'].each do |filename|
+        Dir.foreach('_drafts') do |filename|
           FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
         end
       else
-        args.each do |filename|
-          FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
+        args.each do |name|
+          Dir.foreach('_drafts') do |filename|
+            puts filename, name, filename.include?(name)
+            if filename.include? name
+              FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
+            end
+          end
         end
       end
     end
@@ -37,18 +43,38 @@ module Ecstatic
     # Public: Keeps the most recent K articles in "_posts",
     #   and moves the rest to the "_archive" folder
     def keep_most_recent
-      K = 10
       FileUtils.mkdir_p "_archive"
-      posts = Dir['_posts'].sort { |a, b| b <=> a }
+      posts = Dir.foreach('_posts').sort { |a, b| b <=> a }
       posts[10..-1].each do |filename|
         FileUtils.mv "_posts/#{filename}", "_archive/#{filename}", :force => true
       end
+    end
+
+    # Public: Creates draft
+    def start(args)
+      post_name = args[0]
+      dmy = DateTime.now.strftime("%Y-%m-%d")
+      full_name = "_drafts/#{dmy}-#{post_name}.textile"
+      FileUtils.touch full_name
+      File.open(full_name, 'a') do |f|
+        f << """
+---
+layout: post
+title: #{post_name}
+---
+        """.strip
+      end
+      puts "Created #{full_name}"
     end
   end
 end
 
 begin
   Ecstatic::Conductor.new ARGV
-rescue Errno::ENOENT => err
-  abort "ecstatic: #{err.message}\nusage: ecstatic [command] [-post]"
+rescue Exception => err
+  puts "usage: ecstatic [command] ..."
+  puts "possible commands"
+  puts "  publish: Publishes all drafts"
+  puts "  publish [post]: Publishes all drafts matching given name\n"
+  abort "#{err.message}\n"
 end

@@ -18,7 +18,7 @@ html, body {
 body {
   background-color: white;
   *font-size: small;
-  font-family: ProximaNova;
+  font-family: HelveticaNeue, Helvetica, ProximaNova, sans-serif;
 }
 
 h1, h2, h3 {
@@ -165,7 +165,7 @@ ul.posts {
 /*****************************************************************************/
 
 #post {
-
+  line-height: 1.5em;
 }
 
   /* standard */
