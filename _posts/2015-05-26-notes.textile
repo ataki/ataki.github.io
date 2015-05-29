@@ -22,7 +22,7 @@ How do we avoid over-training our mental models in real life? It seems impossibl
 simple. Racism, stereotypes, miscommunication and misunderstandings can all be viewed as a problem of overfitting.
 It helps to have some type of <b>awareness and intelligent peers</b> to make sure you're not over-training for what you see.
 
-Deliberate practice is about training with <b>new examples</b> that grow to cover the domain of inputs.
+Practice for me is about training with <b>new examples</b> that grow to cover the domain of inputs.
 Sometimes the hardest thing is deciding on the training data; the machinery is always there.
 
 Allow people and habits to come back naturally. Read slower and longer. Write short and often. Dance. Explore. Stay curious.
