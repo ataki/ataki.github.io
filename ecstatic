@@ -31,7 +31,6 @@ module Ecstatic
       else
         args.each do |name|
           Dir.foreach('_drafts') do |filename|
-            puts filename, name, filename.include?(name)
             if filename.include? name
               FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
             end
