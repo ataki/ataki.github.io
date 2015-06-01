@@ -3,16 +3,14 @@ layout: post
 title: one-month
 ---
 
-Life for some people consists of peaks and valleys of activity. Sometimes the peak is particularly high. This is one such peak.
-It's been one month since I've started working at Invoice2go. During that time I've learned and experienced quite a lot.
+Life for some people consists of peaks and valleys of activity. Sometimes the peak is particularly high. April 2015 is one such peak. It's been one month since I've started working at Invoice2go. During that time I've learned and experienced quite a lot.
 
 <ul>
-    <li>Traveled to NYC, Sydney, and NYC again</li>
-    <li>Started investing / getting involved in FinTech</li>
-    <li>Made the decision to move to SF</li>
-    <li>Passed the halfway point of my last (and toughest) class at Stanford</li>
+    <li>Started a job</li>
+    <li>Traveled to NYC, Sydney, and NYC again.</li>
+    <li>Made the decision to move to SF and found an apartment</li>
+    <li>Passed the halfway point of my last class</li>
+    <li>Got to know about 15 new people this month.</li>
 </ul>
 
-Traveling makes time slow down because you're experiencing new things. Working makes things speed up because you lose track
-of time working on a problem. This whole month has felt like a never-ending, start-stop time warp. I'm only just starting the
-road to recovery, and blogging about it has been a relief from the chaos.
+Traveling and meeting new people makes time slow down because you're experiencing new things. Working makes things speed up because you lose track of time diving down rabbit holes. This whole month has felt like a never-ending, start-stop time warp. I'm only just starting the road to recovery, and blogging about it has been a relief from the chaos.
