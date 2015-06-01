@@ -1,0 +1,30 @@
+---
+layout: post
+title: happiness
+---
+
+I'm moving to San Francisco in about two weeks. This is likely to be one of many bad decisions I make for the next few years - I welcome them.
+Now then, onto concrete goals I have once I arrive there, and the real reasons I'm paying to live there.
+
+<ul>
+    <li>
+        <h4>Networking</h4>
+        There is a very real sense that the most productive makers exist in San Francisco. This doesn't mean that they're the most brilliant - you'd probably
+        have to go to Europe for that - but my current life idols for the most part live in the city. And I actually get a chance to meet some of them.
+    </li>
+    <li>
+        <h4>Deliberate Use of Time and Space</h4>
+        There is a sense that as I was becoming an adult, things were too easy around Stanford. I essentially got a Masters degree for free, got to travel across
+        Europe on someone else's dime, and had easy access to the world's best resources in professors and students. I returned to a network of friends and never
+        had that sense of newness or uncertainty.
+
+        Counter-intuitvely, it's not an environment in which everyone succeeds.
+
+        I now know that to progress on some tangible goal, I have to be somewhat invested in the outcome. This means that every trip I take is no longer free,
+        any apartment a risk, and any connection something of value. One has to plan the details and think much more carefully, and I'm hoping the commitment
+        to a higher standard of life can spur me to think more deliberately about my life.
+
+        I'm not worried about failing - that's inevitable. I simply hope not to fall short of my goals, which is to answer the riddles that have chased me for the
+        last few years. Living in SF has been a long time coming, and I'm glad that this time, the stakes are real.
+    </li>
+</ul>
