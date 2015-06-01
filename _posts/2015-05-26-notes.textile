@@ -7,11 +7,8 @@ title: notes
     <i class="c">This is a dump of thoughts that's accumulated over the last few months.</i><br/>
 </p>
 
-Interviewing sucks. I've seen both sides about a dozen times over the past two months. It really comes down to a personality fit 
+Interviewing still sucks. I've seen both sides about a dozen times over the past two months. It really comes down to a personality fit 
 as much as a cultural one. A high bar for raw talent makes for a great story, but not always a great organizational move.
-
-Bad things happen when people choose form over substance, but it happens. Choose substance first, then follow it with form.
-This takes time, since form is easier to emulate. So don't worry too much about time. <b>Focus on substance and don't get distracted by form.</b>
 
 Ever since I (re-)learned gradient descent and optimization, I've fallen back to it as a good framework for mapping
 your life trajectory. At any given point, are you moving toward a local optimum, or are you keeping your eyes open
@@ -29,8 +26,4 @@ Allow people and habits to come back naturally. Read slower and longer. Write sh
 
 Measure yourself, but not constantly. Monthly is a good pace. Be humble when making goals.
 
-Give yourself "growth days". These are days during which you make progress on a goal. Reach.
-
-<p class="highlight">
-    <i class="ne">The days are long, but the months are short.</i>
-</p>
+Make room for "growth days". These are days during which you make progress on a goal. Reach.

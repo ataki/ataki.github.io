@@ -33,6 +33,7 @@ module Ecstatic
           Dir.foreach('_drafts') do |filename|
             if filename.include? name
               FileUtils.mv "_drafts/#{filename}", "_posts/#{filename}", :force => true
+              exec "git add . && git commit -m 'Publish #{filename}'"
             end
           end
         end
