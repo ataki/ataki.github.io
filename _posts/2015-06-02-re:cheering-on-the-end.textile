@@ -1,0 +1,26 @@
+---
+layout: post
+title: re:cheering-on-the-end-of-the-world
+---
+
+h1. RE: Cheering on the end of the world
+
+Here's the <a href="https://medium.com/incoherent-brainfarts/cheering-on-the-end-of-the-world-a8c25da5ca0?2">article</a> in question. I take it to be a legitimate article, not a troll one.
+
+You can go skim it, or just imagine:
+
+<img src="http://cdn2.thisisinfamous.com/wp-content/uploads/2013/12/Terminator-terminator-9683150-1024-576.jpg" height="200" />
+
+In brief: yeahhhhh...not really.
+
+After having taken most of the applied AI classes (and skipping the hardest two - convex and pgms be damned) I think it's safe to say we're not there yet...or will ever be. I'm not cynical, but I just don't see us creating super-intelligent beings. For some reason, it doesn't feel like our natural evolution as human beings. I've argued at length about this, but I'm more sold on the notion that humans will find a way to augment our Darwinian evolution - think bio-engineering more than independent beings.
+
+The reason kind of has to do with debugging - it's so damn hard to debug an OS and improve on it. And the ability to debug is what limits the complexity of your system. What we wind up getting is a kind of exponential decay curve:
+
+<img src="/assets/img/exp-decay.jpg" height="450" />
+
+To make any sort of progress, we have to enhance our debugging capacity. To do so, we need more predictive compilers, smarter debugging tools, less crappy software dev practices. We need to build tools powered by AI that get there (btw my friend's building one - it's called Kite). We need to power our applications using domain-specific data - a lot of data, and somehow manage to capture and represent the relationships among data (although neural / tensor networks are making progress on this front).
+
+Then we can start talking about the machines.
+
+
