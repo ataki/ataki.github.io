@@ -1,0 +1,16 @@
+---
+layout: post
+title: getting-closer-to-the-truth
+---
+
+While reading the transcript of a TED talk I had watched back in 2009, I had a sudden flashback to the 2009 version of myself.
+
+That was the year of uncertainty, the final year you get as a person to choose your major, choose the people you hang out and associate with. To this day, I still don't know whether the freedom to choose your major was a blessing or a curse, because it raises expectations, throws uncertainty in your face, and leads to irrational behavior.
+
+If there was one clear message I remembered from that period of uncertainty, it was that programming and design captivated me by showing me "truths" about my surrounding world. The way that computer systems communicated, the reason things are the way they're shaped - there's a lot of thought that goes into it.
+
+Now that I'm making my transition to work, I realize how hard it is to come by absolute truths. It's as if more than half the world runs under a blanket of lies and don't-cares.
+
+Which made me remember why I wanted to get into design / CS in the first place: because it shows the way things work, truthfully. For engineers, there should be no curtains drawn. We see the truths as they are, and work to uncover hidden ones. There are few other disciplines that bring a person as close to a practical truth.
+
+Life and learning is about getting to this point where you feel like you've stumbled upon the "truth". It's hard to describe the feeling, but it's an amazing feeling.

@@ -1,0 +1,26 @@
+---
+layout: post
+title: bucket-list
+---
+
+There are two bucket lists of things I want to explore before I lose the joie-de-vivre that everybody inevitably loses.
+
+==In Tech==
+* Get decent at Haskell. Enough to be able to write a data workflow in it.
+* Get decent at Clojure.
+* Experiment with microservices in Go/Py
+* Experiment with Concurency in Clj/Hs
+* Get decent at Ruby. Enough to be able to write web services in it.
+* Write a 2D game that tracks my real life movements.
+* Write a RBTree.
+* Build a great devops tool
+* Build a great consumer-facing tool
+* Gain speed and proficiency with data hacking
+
+==In Life==
+* Visit Korea.
+* Maintain top physical shape for 3 years.
+* Audition for a dance team.
+* Maintain a blog consistently for over 4 years.
+* Re-learn guitar.
+* Visit friends in Zurich. Visit friends in Japan.

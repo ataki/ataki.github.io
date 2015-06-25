@@ -1,0 +1,12 @@
+---
+layout: post
+title: whats-in-a-company
+---
+
+What s a good way of thinking about a company? The old-school definition describes a "company of men", a gathering of individuals united for a sole purpose (although the duration is notably missing from the definition).
+
+...
+
+When I view companies, I don't think anyone in the modern day sees them as a reflection of individual values. The company mission statement and motto are just ways of defining a direction forward, but any attempt to inject personal value into a company seems invalid. For example, Google tries to do no evil, but that can hardly be a value that a person upholds, because why would a person *strive* to do no evil? What is defined as evil?
+
+If anything, we look upon company values sardonically, or for its legal weight. "Look, Google promises to do no evil, but it clearly is trying to sell us stuff we don't want, and look, it even complied with the NSA!"

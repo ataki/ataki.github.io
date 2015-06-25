@@ -1,0 +1,21 @@
+---
+layout: post
+title: dating
+---
+
+<i>This is a mess of thoughts floating inside my head about dating</i>
+
+Dating is an umbrella term for two different tasks
+
+1. courtship practice
+2. finding the right person
+
+The two optimize for very different objective functions. The first centers on getting better at the general process of expressing and caring for a person, and possibly getting into a relationship to go through the motions. The second centers around the search for someone who you're willing to commit to.
+
+The above doesn't precisely capture everything, but is close. It needs some work.
+
+For those of us who are interested in substance over style, it's hard to meet people out in the wild who care more about style than substance, simply because *people who have a lot to offer don't need to go around advertising themselves*. They make less noise, which makes them harder to find.
+
+Online dating helps, but there are intrinsic difficulties. Those who are early adopters are *maximizers rather than satisfiers*, so they won't settle until they feel like they've met an ideal person.
+
+Difference is, online dating can be improved in the long term because it is software, and scales quickly. Right now less than 30% of population is on online dating sites. As user base and cell phone penetration grow, you can bet on online dating getting more popular, and more accepted by culture. Interestingly, you may also get better 
