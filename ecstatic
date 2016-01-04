@@ -74,6 +74,7 @@ begin
 rescue Exception => err
   puts "usage: ecstatic [command] ..."
   puts "possible commands"
+  puts "  start: Create a draft for today's entry"
   puts "  publish: Publishes all drafts"
   puts "  publish [post]: Publishes all drafts matching given name\n"
   abort "#{err.message}\n"

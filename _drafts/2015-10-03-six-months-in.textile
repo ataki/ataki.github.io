@@ -1,0 +1,21 @@
+---
+layout: post
+title: six-months-in
+---
+
+It's been six months since I joined Invoice2go. Here's a loose collection of lessons that I've learned during that time, grouped by topic.
+
+*Engineering*
+
+- Always ask, 'Is this really necessary'? Late nights spent doing extra work do less than coordinating to figure out that no work needed to be done in the first place.
+- Be empathetic. Working with outside consultants, I've been guilty of pushing our agenda without trying to understand the other side. It's easier to work within someone else's cadence than to disrupt it.
+- Be the opposite of empathic selectively - know when to push your agenda. Your coworkers need to hear your opinion. Just make it well-thought out.
+- Share your work. It's important for a team to understand what the others are working on. It's also important for the organization to understand the value and contributions of individuals toward the entire organization.
+
+*Growth*
+
+- Focus on growing your retained user base. This isn't about releasing new products, but improving the core experience of your product, which is more difficult and less fun. It's about improving an existing product. Only a few new features will have the imagined impact. Redesigning nad improving the core UX has guaranteed impact on your entire user base.
+
+*Work/Life*
+
+- Physicality is important when your everyday work involves software. Maintain a workout-centric life outside work, hold real conversations when possible, and give / receive emotions properly.
