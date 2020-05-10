@@ -235,9 +235,8 @@ ul.posts {
 
 .food-menu li {
   list-style: none;
-  display: inline-block;
+  display: block;
   margin-top: 40px;
-  height: 80px;
 }
 
 .food-menu-title {
