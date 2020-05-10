@@ -211,3 +211,58 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+
+/*****************************************************************************/
+/*
+/* Food Menus
+/*
+/*****************************************************************************/
+
+.food-menu {
+  text-align: center;
+}
+
+.food-menu hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: #ccc;
+  border-width: 0.25px;
+}
+
+.food-menu li {
+  list-style: none;
+  display: block;
+  margin-top: 40px;
+  height: 80px;
+}
+
+.food-menu-title {
+  font-family: "Playfair Display SC", sans-serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.food-menu-name {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.75em; 
+  text-transform: uppercase;
+  color: #333;
+}
+
+.food-menu-ingredients {
+  font-family: Georgia, sans-serif;
+  font-size: 0.5em; 
+  font-style: italic;
+  color: #777;
+}
+
+.food-menu-desc {
+  font-family: "Nunito", sans-serif;
+  font-size: 0.5em; 
+  color: #555;
+}
