@@ -249,20 +249,20 @@ ul.posts {
 
 .food-menu-name {
   font-family: "Montserrat", sans-serif;
-  font-size: 0.75em; 
+  font-size: 1em; 
   text-transform: uppercase;
   color: #333;
 }
 
 .food-menu-ingredients {
   font-family: Georgia, sans-serif;
-  font-size: 0.5em; 
+  font-size: 0.75em; 
   font-style: italic;
   color: #777;
 }
 
 .food-menu-desc {
   font-family: "Nunito", sans-serif;
-  font-size: 0.5em; 
+  font-size: 0.75em; 
   color: #555;
 }
