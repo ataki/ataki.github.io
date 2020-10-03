@@ -134,4 +134,3 @@ func main() {
 // ... everything below is unmodified
 {% endhighlight %}
 
-In the next part, I'll try building a small web client with Go, and get a taste of package organization.
