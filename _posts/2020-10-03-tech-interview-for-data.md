@@ -38,9 +38,7 @@ requirements - olap vs oltp.
 
 And yet, the technical interview has not changed. We interview data, devops, and other engineers at most companies with the same set of generalist questions. One of the best devops engineers I know got a question about scalable api design 4 years ago (this skill set wasn't mentioned in the job posting). Whether this thrash and miscommunication is actually good is up to the employer, but the fact is, the process has not fundamentally changed. If you're a data engineer, you need to study for software.
 
-With that, I'll turn attention towards helping data engineers of data engineers who
-want to transition back into software, or vice versa. For the data -> software
-route, I outline an opinionated study plan.
+Rather than address the source of misconception, I'll turn attention towards a more practical issue: what process can data engineers follow to transition back into software? For the data -> software route, I outline an opinionated study plan.
 
 # Opinionated Plan
 
@@ -69,12 +67,9 @@ I enjoy thinking about every nook and cranny of the problem, and developing an
 intuition for the algorithm.
 
 ## What The End State Should Feel Like
-Now you're ready to study. Start by visualizing the end state.
+Start by visualizing the end state. A frequent question I hear is: how do you know you've done enough studying?
 
-A frequent question I used to ask and get is: how do you know you've done
-enough studying? It's not when you're fed up with studying.
-
-IMO the best mentality is to be so prepared that **you literally can't wait to get to the problem in the interview.** There's a joy in having solved so many problems that you're wishing the interview gives you one you haven't heard of before and struggle with. Most interviewers will not. The reason is that problems solvable in 20-35min come down to using the same data structures and algorithmic patterns with tweaks.
+The best mentality is to be so prepared that **you literally can't wait to get to the problem in the interview.** There's a joy in having solved so many problems that you're wishing the interview gives you one you haven't heard of before and struggle with. Most interviewers will not. The reason is that problems solvable in 20-35min come down to using the same data structures and algorithmic patterns with tweaks.
 
 If you're into metrics, another one is that you can code up a problem from
 start to finish in 20min or less. This can literally be the same problem you've
