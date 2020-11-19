@@ -54,7 +54,7 @@ module Ecstatic
     def start(args)
       post_name = args[0]
       dmy = DateTime.now.strftime("%Y-%m-%d")
-      full_name = "_drafts/#{dmy}-#{post_name}.textile"
+      full_name = "_drafts/#{dmy}-#{post_name}.md"
       FileUtils.touch full_name
       File.open(full_name, 'a') do |f|
         f << """
