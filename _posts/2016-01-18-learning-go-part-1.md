@@ -1,11 +1,9 @@
 ---
 layout: post
-title: learning-go-part-1
+title: learning go on a weekend
 ---
 
-This is the first part of a series of attempts at learning Go.
-
-At this point, I've
+I took a brief trip this weekend into goland. Till this point, I've
 
 <ul>
   <li>Worked exclusively with dynamic languages for the past year</li>

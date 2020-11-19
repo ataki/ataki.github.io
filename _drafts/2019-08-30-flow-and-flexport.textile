@@ -1,0 +1,43 @@
+---
+layout: post
+title: flow-and-flexport
+---
+
+Flow by Mikhail C. describes the mental state of flow and theorizes on how it impacts society.
+though his thoery is high level and backed by indirect empirical evidence,
+I find his theory compelling for building a mental model for running a happy team.
+
+# Flow
+
+like a society, a team is maximally happy when each of its members is in "flow",
+or the state characterized by:
+
+* being engrossed in complex work
+* complex enough to require growth of self
+* work that is challenging 
+* work that gives immediate feedback
+
+flow is an experience that can be controlled and simulated. it can be different
+for each person, but the common denominator is the result: the sensation that
+the self has become more "complex".
+
+mikhail extrapolates empirical results of his studies on flow to societal structures.
+although i believe this overreaches, i find his observations useful when applied
+to a work setting.
+
+# Flow at work
+
+extrapolating from mikhail's work on flow:
+
+the more tasks we can give team members that put them into a state of flow,
+the longer we keep team mates content. the longer we keep team mates content,
+the more we contribute to a sense of self-growth for each member, and as an
+emergent property, a sense of team growth.
+
+so we need to find technical work that:
+
+* is complex (work that differentiates & integrates)
+* is not too hard (beyond current skills of team)
+* is not disruptable
+
+

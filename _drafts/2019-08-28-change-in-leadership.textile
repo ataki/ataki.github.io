@@ -1,0 +1,18 @@
+---
+layout: post
+title: change-in-leadership
+---
+
+Today the change in leadership at Flexport's data engineering team finally hit me. It had been 1.5 years under the same leadership (more or less). We are finally getting a change in leadership in the right direction. Out with the old, in with the new.
+
+Top of mind for me: reflection, regret, forgiveness, understanding.
+
+First, reflection. For the last 1.5 years, our team had gone way off-track in terms of leadership. There was a lack of chemistry, appreciation, technical direction, and cohesiveness. We were under pagerduty for most nights, and during that time we were consistently woken up night after night. We grew to 8, deflated to 5 by the end, and lost 4 people, 1 to remote. These people left on unhappy terms. The career damage wasn't high, but the emotional toil was immense. These memories come top of mind when I think back to our team.
+
+Second, regret. I could have better vocalized my own thoughts to leadership. We should have defended our team members. We should have all seen this before joining. Flexport is only now beginning to see the problem, but we wasted a year of our prime years of contribution. Those are years we cannot get back.
+
+Third, forgiveness. Given the situation, I think our team performed about expected. leadership was caught in ambiguity as it always is with data engineering at startups. Other engineers suffered due to other team issues. The grass is not greener. Our leader tried the best he could given his position, background, and experience. Nobody in engineering did well. Flexport continued to grow immensely (business + people-wise).
+
+Fourth, understanding. Losing time means gaining insight. It's up to us to take our learnings and use that to double our acceleration as a team.
+
+We are stronger for this. Let's make it count.

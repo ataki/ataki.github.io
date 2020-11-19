@@ -1,0 +1,10 @@
+--
+layout: post
+title: harden
+---
+
+Loose thoughts at flexport, one of the key results of missing a product presence is that we're not exactly sure what to build. what should we build? how should we define the data models? this takes massive engineering iteration and you'll likely be wrong at first.
+
+"build things that don't scale." how true is this at flexport?
+
+why do we build? do we build out of necessity?
