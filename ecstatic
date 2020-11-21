@@ -52,7 +52,7 @@ module Ecstatic
 
     # Public: Creates draft
     def start(args)
-      post_name = args[0]
+      post_name = args[0] || "my-post"
       dmy = DateTime.now.strftime("%Y-%m-%d")
       full_name = "_drafts/#{dmy}-#{post_name}.md"
       FileUtils.touch full_name
