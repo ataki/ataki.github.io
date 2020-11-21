@@ -3,6 +3,8 @@ layout: post
 title: 2 day rule
 ---
 
+# two day rule
+
 This thought comes from two pieces. First, James Somer's piece about <a
 href="https://jsomers.net/blog/speed-matters">Speed Matters: Why working
 is more important than it seems</a>. "Quick" here means time to
