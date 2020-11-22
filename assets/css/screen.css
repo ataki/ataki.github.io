@@ -22,6 +22,36 @@ body {
   max-width: 750px;
 }
 
+@media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+  body {
+    font-size: 3.5em;
+    max-width:100%;
+  }
+}
+
+@media only screen
+    and (device-width : 375px)
+    and (device-height : 667px)
+    and (-webkit-device-pixel-ratio : 2) {
+  body {
+    font-size: 3.5em;
+    max-width:100%;
+  }
+}
+
+@media only screen
+    and (device-width : 414px)
+    and (device-height : 736px)
+    and (-webkit-device-pixel-ratio : 3) {
+  body {
+    font-size: 3.5em;
+    max-width:100%;
+  }
+}
+
 h1, h2, h3 {
   font-size: 120%;
 }
