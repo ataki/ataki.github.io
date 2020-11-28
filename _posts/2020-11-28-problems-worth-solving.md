@@ -1,9 +1,9 @@
 ---
 layout: post
-title: problems-worth-solving
+title: problems worth solving
 ---
 
-**I came across this article in graduate school while trying to figure out what the next "grand" problem I should solve.**
+_I came across this article in graduate school while trying to figure out what the next "grand" problem I should solve._
 
 > Dear Koichi,
 
