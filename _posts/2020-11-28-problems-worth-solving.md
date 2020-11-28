@@ -3,7 +3,7 @@ layout: post
 title: problems worth solving
 ---
 
-_I came across this article in graduate school while trying to figure out what the next "grand" problem I should solve._
+_I came across this article in graduate school while trying to figure out my career and next steps._
 
 > Dear Koichi,
 

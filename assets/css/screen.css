@@ -16,8 +16,8 @@ html, body {
 }
 
 body {
-  background-color: white;
-  font-size: 2em;
+  background-color: #feffff;
+  font-size: 1.75em;
   font-family: -apple-system, BlinkMacSystemFont, HelveticaNeue, Helvetica, ProximaNova, sans-serif;
   max-width: 750px;
 }
@@ -78,6 +78,8 @@ h1 {
 
 p {
   margin: 1em 0;
+  font-family: "ProximaNova";
+  font-weight: 200;
 }
 
 a {
