@@ -35,8 +35,6 @@ So I changed it up. I defined "small" as less than 1 hour to write. I created a
 couple of command line tools that saved me a few keystrokes and created a new
 post.
 
-And the rest is history.
-
 ---
 
 This type of thinking is especially valuable for creative disciplines. Engineering
