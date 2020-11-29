@@ -2,7 +2,11 @@
 layout: default
 ---
 <div id="post">
-{{ content }}
+  {{ content }}
+  <h2>Discussions</h2>
+  <p>
+    <a href="https://twitter.com/intent/tweet/?text={{ page.title | url_encode }}&url={{ page.url | url_encode }}&via=ataki12">Discuss on Twitter</a>
+  </p>
 </div>
 
 <div id="related">
