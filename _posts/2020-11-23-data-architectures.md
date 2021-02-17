@@ -88,14 +88,14 @@ This question arose in discussions within the [Data Mesh learning community](htt
 These technologies are listed in our [JD](https://boards.greenhouse.io/flexport/jobs/2390393), so it's public information :)
 
 Technologies:
-* [AWS Kinesis](https://aws.amazon.com/kinesis/) - backbone for streaming
-* [protobufs](https://developers.google.com/protocol-buffers/) - to represent messages
-* [snowflake](https://www.snowflake.com/) - storage / queries (with custom Snowpipe management tool)
-* [dbt](https://www.getdbt.com/) - crude solution for domain data products
-* [datadog+custom dashboarding solution](https://www.datadoghq.com/) - monitoring / observability
-* [kmo] - internal codegen tool that's stitches together everything
-* [terraform](https://www.terraform.io/) - for resource management
-* Airflow on Kubernetes - for batch data workflows
+* [AWS Kinesis](https://aws.amazon.com/kinesis/): backbone for streaming
+* [protobufs](https://developers.google.com/protocol-buffers/): to represent messages
+* [snowflake](https://www.snowflake.com/): storage / queries
+* [dbt](https://www.getdbt.com/): crude solution for domain data products
+* [datadog](https://www.datadoghq.com/): monitoring / observability
+* kmo - internal codegen tool
+* [terraform](https://www.terraform.io/): resource management
+* Airflow on Kubernetes: for batch data workflows
 
 ---
 
