@@ -80,6 +80,23 @@ For younger organizations that are not entrenched in org or tech debt,
 it's a perfect opportunity to try this out. If we get it right, we'll
 have answered some important questions about the nature of data modeling.
 
+## Appendix: Technologies
+>  What's an example of your tech stack for Data Mesh?
+
+This question arose in discussions within the [Data Mesh learning community](https://launchpass.com/data-mesh-learning), which I'd encourage you to join if you are thinking about implementing.
+
+These technologies are listed in our [JD](https://boards.greenhouse.io/flexport/jobs/2390393), so it's public information :)
+
+Technologies:
+* [AWS Kinesis](https://aws.amazon.com/kinesis/) - backbone for streaming
+* [protobufs](https://developers.google.com/protocol-buffers/) - to represent messages
+* [snowflake](https://www.snowflake.com/) - storage / queries (with custom Snowpipe management tool)
+* [dbt](https://www.getdbt.com/) - crude solution for domain data products
+* [datadog+custom dashboarding solution](https://www.datadoghq.com/) - monitoring / observability
+* [kmo] - internal codegen tool that's stitches together everything
+* [terraform](https://www.terraform.io/) - for resource management
+* Airflow on Kubernetes - for batch data workflows
+
 ---
 
 <sup>1</sup> Domain teams are eng teams that support a business domain with
