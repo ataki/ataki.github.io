@@ -10,21 +10,21 @@ can read a bit dense, so here are notes you can read in 3min.
 * [Article](https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere)
 
 # tl;dr
-- it's a demand shock we're experiencing in 2021, not supply shortage
+- 📈 it's a demand shock we're experiencing in 2021, not supply shortage
 - high inflation is likely to be reasonably sustained due to continued lenient policies
-- (my own) if you hold assets, continue to hold post-covid. if you don't, buy
+- (my own opinion) if you hold assets, continue to hold post-covid. if you don't, buy
   more assets and increase your exposure to different asset classes
 
-# Sections
+# Summary
 
-## Landscape
+## 🏔 Landscape
 - Current news headlines in Q3/Q4 2021 cover low supply
 - BUT, MP3 has really driven an upward demand shock in consumer goods
 - There are not enough raw materials, energy, productive capacity, inventories, housing, or workers
 - Consumer goods demand is unlikely to sustain, but demand for services (aka employment) will continue to lag
 - Continued service lagging puts pressure on a labor market
 
-## More about MP3
+## 📈 More about MP3
 ### Story for demand
 - Government transfer massive amount of cash to households, more than offsetting lost income from covid
 - Household balance shets are in materially better state than pre-pandemic
@@ -45,7 +45,7 @@ can read a bit dense, so here are notes you can read in 3min.
 	- Not enough labor
 		- Half of all US firms cannot fill positions
 
-### Next wave of inflationary pressures
+## Next wave of inflationary pressures
 1. Consumer good demand goes down
 2. Increase spending on labor-intensive services
 3. Ongoing shortage of labor will worsen
