@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridgewater: Effects of  Monetary Policy 3 (Notes)
+title: Bridgewater effects of mp3 notes
 ---
 
 Bridgewater just published an article on the state of inflation. The article
