@@ -11,8 +11,8 @@ can read a bit dense, so here are notes you can read in 3min.
 
 # tl;dr
 - 📈 it's a demand shock we're experiencing in 2021, not supply shortage
-- high inflation is likely to be reasonably sustained due to continued lenient policies
-- (my own opinion) if you hold assets, continue to hold post-covid. if you don't, buy
+- 💵 high inflation is likely to be reasonably sustained due to continued lenient policies
+- ✋ (my own opinion) if you hold assets, continue to hold post-covid. if you don't, buy
   more assets and increase your exposure to different asset classes
 
 # Summary
